@@ -15,7 +15,7 @@ Soy un desarrollador apasionado por la tecnología y la programación.
 - Correo Electrónico: gabrielnaut1@gmail.com
   
 ## 🏆 Logros
-- **Bachiller en Técnico en Desarrollo y Administración de Aplicaciones Informáticas**
+- **Bachiller Técnico en Desarrollo y Administración de Aplicaciones Informáticas**
 
 ## 📂 Proyectos
 - **React-Task-App**: Una lista de tareas desarrollada en react.
